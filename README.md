@@ -5,7 +5,7 @@
 ## Easy 
 - [Nested Lists](https://github.com/RanaAbdulrhman/HakerRank_Practice/edit/main/NestedLists.py)
 - [Leap Year](https://github.com/RanaAbdulrhman/HakerRank_Practice/edit/main/LeapYear.py)
-
+- [Marks Average](https://github.com/RanaAbdulrhman/HakerRank_Practice/edit/main/Percentage.py)
 ## Medium 
 - [Validating Email Addresses With a Filter](https://github.com/RanaAbdulrhman/HakerRank_Practice/edit/main/Validating_Email_Addresses.py)
 
