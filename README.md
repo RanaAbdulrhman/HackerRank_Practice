@@ -7,7 +7,7 @@
 - [Nested Lists](https://github.com/RanaAbdulrhman/HakerRank_Practice/edit/main/NestedLists.py)
 - [Leap Year](https://github.com/RanaAbdulrhman/HakerRank_Practice/edit/main/LeapYear.py)
 - [Finding Percentage](https://github.com/RanaAbdulrhman/HakerRank_Practice/edit/main/Percentage.py)
-
+- [list operations](https://github.com/RanaAbdulrhman/HakerRank_Practice/edit/main/list_commander.py)
 ### Medium 
 - [Validating Email Addresses With a Filter](https://github.com/RanaAbdulrhman/HakerRank_Practice/edit/main/Validating_Email_Addresses.py)
 
