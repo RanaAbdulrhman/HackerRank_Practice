@@ -3,4 +3,4 @@
 # HackerRank Solutions Using Python3
 
 ## Easy 
-- [Nested Lists]()
+- [Nested Lists](https://github.com/RanaAbdulrhman/HakerRank_Practice/edit/main/NestedLists.py)
